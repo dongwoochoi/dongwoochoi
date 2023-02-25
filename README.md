@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --!>
-<img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dong99woo" />
+
 <img src="https://img.shields.io/github/followers/dongwoochoi?style=social" alt="Jinwoo followers" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongwoochoi&layout=compact)](https://github.com/dongwoochoi/github-readme-stats" />
