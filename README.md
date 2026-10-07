@@ -1,9 +1,6 @@
 ### About Me 👋
 
 * 🌱 I am a Front-end aspiring student studying React who is interested in it.
-
-* 🔭 I am currently in my 4th year at the Department of Industrial ICT Technology Engineering at Dong-Eui University.
-
 * 🔥 I enjoy working on team projects and writing some new code!
 
 ### languages and tools: 
